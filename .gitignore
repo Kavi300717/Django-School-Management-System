@@ -63,4 +63,8 @@ htmlcov/
 # =========================
 node_modules/
 
-.txt
+# =========================
+# Text files
+# =========================
+LICENSE.txt
+SECURITY.md
