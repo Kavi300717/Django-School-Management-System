@@ -62,3 +62,5 @@ htmlcov/
 # Node (if used later)
 # =========================
 node_modules/
+
+.txt
